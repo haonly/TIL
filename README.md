@@ -1,6 +1,6 @@
 # TIL
 Today I Learned:
-Space for things what I've learned.
+Space for what I've learned.
 
 **GOAL**: 1 DAY 1 LEARNING
 
