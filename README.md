@@ -15,3 +15,6 @@ For my graduation project which is about `Selective 360 video transmitting`, I a
 
 ## Linux
 Write-ups for Linux
+
+## Machine Learning
+Machine Learning for IoT and Edge computing 
