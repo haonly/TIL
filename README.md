@@ -18,3 +18,4 @@ Write-ups for Linux
 
 ## Machine Learning
 Machine Learning for IoT and Edge computing 
+* [Linear regression](https://github.com/hayeon0824/TIL/blob/master/DL/Linear%20regression.md)
