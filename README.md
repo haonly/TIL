@@ -19,6 +19,9 @@ For my graduation project which is about `Selective 360 video transmitting`, I a
 ## Linux
 Write-ups for Linux
 
+## Web
+New study for web
+
 ## Machine Learning
 Machine Learning for IoT and Edge computing 
 * [Linear regression](https://github.com/hayeon0824/TIL/blob/master/DL/Linear%20regression.md)
