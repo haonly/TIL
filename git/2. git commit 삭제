@@ -1,4 +1,4 @@
 ## 잘못 commit 한 file 삭제
 1. `git log` 로 commit 목록 확인
 2. `git reset --soft HEAD^` : commit 을 취소하고 해당 파일들은 <i>staged</i> 상태로 워킹 디렉터리에 보존
-3. `git reset --hard HEAD^` : commit 을 취소하고 해당 파일들은 unstaged 상태로 워킹 디렉터리에서 삭제
+3. `git reset --hard HEAD^` : commit 을 취소하고 해당 파일들은 <i>unstaged</i> 상태로 워킹 디렉터리에서 삭제
