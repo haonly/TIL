@@ -1,0 +1,6 @@
+# Master에 commit 하기
+- `git push origin master` 로 master 에 push 할 수 있음.
+
+# Branch에 commit 하기
+- branch 를 만들어 commit 하고 관리하는 것은 매우 복잡한 일인 것 같다.
+- 어떻게 하는 지는 나중에 올릴거얌 ~.~
