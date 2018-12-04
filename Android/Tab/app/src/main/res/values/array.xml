@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 분노 -->
+
+    <!-- 맛집 -->
+    <string-array name="angry_food_title">
+        <item>스트레스에는 매운게 짱!!</item>
+        <item>어떤음식을 좋아할지 몰라 추천해요</item>
+        <item>맛있는거 먹고 힘내요!!</item>
+    </string-array>
+    <string-array name="angry_food_content">
+        <item>화내지 말아요. 화내면 손해에요</item>
+        <item>누가 화나게 했어요!! 다 데려와 혼내줄게</item>
+        <item>참는자가 승리자</item>
+        <item>스트레스 받는 사람만 손해에요</item>
+        <item>스트레스 풀러 가자!!</item>
+    </string-array>
+    <string-array name="angry_food">
+        <item>https://store.naver.com/restaurants/detail?id=13204905</item>
+        <item>https://store.naver.com/restaurants/detail?id=38704405</item>
+        <item>https://store.naver.com/restaurants/detail?id=413591376</item>
+        <item>https://store.naver.com/restaurants/detail?id=37993793</item>
+        <item>https://store.naver.com/restaurants/detail?id=1200332982</item>
+        <item>https://store.naver.com/restaurants/detail?id=37426225</item>
+        <item>https://store.naver.com/restaurants/detail?id=864010952</item>
+        <item>https://store.naver.com/restaurants/detail?id=38729222</item>
+        <item>https://store.naver.com/restaurants/detail?id=37775817</item>
+        <item>https://store.naver.com/restaurants/detail?id=38482966</item>
+        <item>https://store.naver.com/restaurants/detail?id=1399328980</item>
+        <item>https://store.naver.com/restaurants/detail?id=37309312</item>
+        <item>https://store.naver.com/restaurants/detail?id=1278467582</item>
+        <item>https://store.naver.com/restaurants/detail?id=31806294</item>
+        <item>https://store.naver.com/restaurants/detail?id=1208470159</item>
+        <item>https://store.naver.com/restaurants/detail?id=20228389</item>
+        <item>https://store.naver.com/restaurants/detail?id=21166187</item>
+        <item>https://store.naver.com/restaurants/detail?id=13077414</item>
+        <item>https://store.naver.com/restaurants/detail?id=1124081565</item>
+    </string-array>
+    <!-- 영화 -->
+    <string-array name="angry_movie">
+        <item></item>
+    </string-array>
+    <!-- 음악 -->
+    <string-array name="angry_music">
+
+    </string-array>
+
+    <!-- 행복 -->
+
+    <!-- 맛집 -->
+    <string-array name="happy_food">
+        <item>https://store.naver.com/restaurants/detail?id=33703521</item>
+        <item>https://store.naver.com/restaurants/detail?id=19216332</item>
+        <item>https://store.naver.com/restaurants/detail?id=19420939</item>
+        <item>https://store.naver.com/restaurants/detail?id=35661043</item>
+        <item>https://store.naver.com/restaurants/detail?id=13470084</item>
+        <item>https://store.naver.com/restaurants/detail?id=31422947</item>
+        <item>https://store.naver.com/restaurants/detail?id=32874964</item>
+        <item>https://store.naver.com/restaurants/detail?id=36192593</item>
+        <item>https://store.naver.com/restaurants/detail?id=38227246</item>
+        <item>https://store.naver.com/restaurants/detail?id=33176697</item>
+        <item>https://store.naver.com/restaurants/detail?id=36358225</item>
+        <item>https://store.naver.com/restaurants/detail?id=1803926822</item>
+        <item>https://map.naver.com/local/siteview.nhn?code=38332439</item>
+        <item>https://store.naver.com/restaurants/detail?id=38501534&amp;query=%EB%B8%94%EB%A0%88%EC%8A%A4%EB%A1%A4%20%EC%9C%84%EB%A1%80%EC%A0%90</item>
+        <item>https://store.naver.com/restaurants/detail?id=38321078&amp;query=%EC%86%8C%EC%9A%B8%EB%93%9C%EB%B8%94%EB%9E%91</item>
+        <item>https://store.naver.com/restaurants/detail?id=13184307&amp;query=%EC%95%84%EB%8A%94%EC%82%AC%EC%9D%B4
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=12033410&amp;query=%EC%B4%8C%EB%8B%AD%EC%88%AF%EB%B6%88%EB%B0%94%EB%B2%A0%ED%81%90</item>
+        <item>https://store.naver.com/restaurants/detail?id=20228389</item>
+        <item>https://store.naver.com/restaurants/detail?id=21166187
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=13077414</item>
+        <item>https://store.naver.com/restaurants/detail?id=1124081565</item>
+    </string-array>
+    <!-- 영화 -->
+    <string-array name="happy_movie">
+
+    </string-array>
+    <!-- 음악 -->
+    <string-array name="happy_music">
+    </string-array>
+
+    <!-- 슬픔 -->
+
+    <!-- 맛집 -->
+    <string-array name="sad_food">
+        <item>https://store.naver.com/restaurants/detail?id=1978378798</item>
+        <item>https://store.naver.com/restaurants/detail?id=38704405</item>
+        <item>https://store.naver.com/restaurants/detail?id=413591376</item>
+        <item>https://store.naver.com/restaurants/detail?id=37993793</item>
+        <item>https://store.naver.com/restaurants/detail?id=1200332982</item>
+        <item>https://store.naver.com/restaurants/detail?id=38501534&amp;
+            query=%EB%B8%94%EB%A0%88%EC%8A%A4%EB%A1%A4%20%EC%9C%84%EB%A1%80%EC%A0%90
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=38321078&amp;
+            query=%EC%86%8C%EC%9A%B8%EB%93%9C%EB%B8%94%EB%9E%91
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=13184307&amp;query=%EC%95%84%EB%8A%94%EC%82%AC%EC%9D%B4
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=1783218437&amp;
+            query=%EC%8A%A4%ED%8A%B8%EB%A6%BF%EC%B8%84%EB%9F%AC%EC%8A%A4%20%EC%9C%84%EB%A1%80%EC%A0%90
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=33252232&amp;
+            query=%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%20%EA%B0%80%EC%B2%9C%EB%8C%80%EC%A0%90
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=1547370773&amp;query=%EB%91%90%EB%AA%A9%EC%BB%A4%ED%94%BC
+        </item>
+        <item>https://store.naver.com/restaurants/detail?id=12033410&amp;query=%EC%B4%8C%EB%8B%AD%EC%88%AF%EB%B6%88%EB%B0%94%EB%B2%A0%ED%81%90</item>
+        <item>https://store.naver.com/restaurants/detail?id=20228389</item>
+        <item>https://store.naver.com/restaurants/detail?id=21166187</item>
+        <item>https://store.naver.com/restaurants/detail?id=13077414</item>
+        <item>https://store.naver.com/restaurants/detail?id=1124081565</item>
+    </string-array>
+    <!-- 영화 -->
+    <string-array name="sad_movie">
+
+    </string-array>
+    <!-- 음악 -->
+    <string-array name="sad_music">
+    </string-array>
+</resources>
