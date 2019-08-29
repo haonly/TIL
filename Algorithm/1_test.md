@@ -1,6 +1,0 @@
-## 짜잘짜잘 깃 사용
-- 맥 유저로서 .DS_Store 삭제, 방지 방법
-- 일단 .DS_Store는 파인더에서 접속할 때마다 생성되어 폴더의 위치나, 아이콘, 배경화면 등의 설정을 담는다. 아주 귀찮음.
-- 기존 파일 지우기: `sudo find / -name .DS_Store -print -delete`
-	- 최상위 디렉터리부터 차례로 .DS_Store 라는 파일을 찾고 삭제시키는 명령어
-- 앞으로 생성 방지: `sudo defaults write com.apple.desktopservices DSDontWriteNetworkStores true`
