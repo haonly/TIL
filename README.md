@@ -6,7 +6,7 @@
 Things I learned about Python!
 
 ## Algorithm
-Algorithm study
+* [완전탐색](https://github.com/hayeon0824/TIL/blob/master/Algorithm/)
 
 ## Linux
 Write-ups for Linux
