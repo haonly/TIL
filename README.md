@@ -6,7 +6,8 @@
 Things I learned about Python!
 
 ## Algorithm
-* [완전탐색](https://github.com/hayeon0824/TIL/blob/master/Algorithm/)
+* [완전탐색](https://github.com/Haonly/TIL/tree/master/Algorithm/Bruete%20Force)
+* [DP](https://github.com/Haonly/TIL/tree/master/Algorithm/DP)
 
 ## Linux
 Write-ups for Linux
