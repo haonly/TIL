@@ -22,3 +22,4 @@ Machine Learning for IoT and Edge computing
 
 ## Natural Language Processing
 Studying NLP 
+* [인턴 자료](https://github.com/Haonly/NER-with-tensorflow)
