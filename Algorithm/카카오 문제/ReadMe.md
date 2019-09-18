@@ -9,4 +9,4 @@
 
 ### 3번
 - 캐시(난이도: 하)
-<img width="390" alt="2번" src="https://user-images.githubusercontent.com/23096309/64541122-54858800-d35c-11e9-89be-078e53ecf05e.png">
+<img width="380" alt="2017-3번" src="https://user-images.githubusercontent.com/23096309/65134890-01889080-da40-11e9-81b4-66f939bfc0b2.png">
