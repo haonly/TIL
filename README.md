@@ -10,6 +10,7 @@ Things I learned about Python!
 * [DP](https://github.com/Haonly/TIL/tree/master/Algorithm/DP)
 * [카카오 문제](https://github.com/Haonly/TIL/tree/master/Algorithm/카카오%20문제)
 * [DFS](https://github.com/Haonly/TIL/tree/master/Algorithm/DFS)
+* [Greddy Algorithm](https://github.com/Haonly/TIL/tree/master/Algorithm/Greedy)
 
 ## Linux
 Write-ups for Linux
