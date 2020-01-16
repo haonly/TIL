@@ -32,7 +32,8 @@ Things I learned about Python!
 [LCS](https://www.acmicpc.net/problem/9251) | [c++](https://github.com/Haonly/TIL/blob/master/Algorithm/DP/LCS.cpp)
 [RGB거리](https://www.acmicpc.net/problem/1149) | [c++](https://github.com/Haonly/TIL/blob/master/Algorithm/DP/RGB거리.cpp)
 피보나치 | [c++](https://github.com/Haonly/TIL/blob/master/Algorithm/DP/fibonacci.cpp)
-[기타리스트](https://www.acmicpc.net/problem/1495) | [c++|(https://github.com/Haonly/TIL/blob/master/Algorithm/DP/기타리스트.cpp)
+[기타리스트](https://www.acmicpc.net/problem/1495) | [c++](https://github.com/Haonly/TIL/blob/master/Algorithm/DP/기타리스트.cpp)
+[동물원](https://www.acmicpc.net/problem/1309) | [c++](https://github.com/Haonly/TIL/blob/master/Algorithm/DP/동물원.cpp)
 ### 카카오 문제
 문제 | 코드
 --- | ---
