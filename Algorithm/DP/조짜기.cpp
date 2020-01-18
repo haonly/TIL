@@ -1,15 +1,14 @@
-//2229 조짜기(DP)
-
 #include <iostream>
-#include <string>
+#include <string.h>
 #include <algorithm>
 using namespace std;
 
+const int MAX = 1000;
 const int INF = 987654321;
 
-int n, input[1000];
+int n, input[MAX];
 int result;
-int cache[1000];
+int cache[MAX];
 int maxDifference(int idx){
     if(idx == n)
         return 0;
