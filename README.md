@@ -55,8 +55,8 @@ Write-ups for Linux
 New study for web
 
 ## Machine Learning
-Machine Learning for IoT and Edge computing 
-* [Linear regression](https://github.com/hayeon0824/TIL/blob/master/DL/Linear%20regression.md)
+머신러닝 & 강화학습
+[단단한 강화학습 스터디 위키](https://github.com/Haonly/TIL/wiki/1.2-예제)
 
 ## Natural Language Processing
 Studying NLP 
