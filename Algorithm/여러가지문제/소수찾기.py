@@ -1,15 +1,15 @@
 from itertools import permutations
 def primeCount(nums):
-    primeList = []
+    primeCount = 0
     for n in nums:
         count = 0
         for i in range(2, n):
-            if n % 2 == 0:
+            if n % i == 0:
                 count += 1
                 break
         if n > 1 and count == 0:
-            primeList.append(n)
-    return len(primeList)
+            primeCount += 1 
+    return primeCount
 
 def solution(numbers):
     numList = []
@@ -18,5 +18,6 @@ def solution(numbers):
         for n in per:
             tmp_per = "".join(n)
             numList.append(int(tmp_per))
-    numList = list(set(numList))
+    numList = sorted(list(set(numList)))
+    print(numList)
     return primeCount(numList)
