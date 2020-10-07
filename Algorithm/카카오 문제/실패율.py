@@ -1,19 +1,23 @@
 def solution(N, stages):
+    rate=[]
     answer = []
-    stageList = [0 for _ in range(1, N+1)]
-    users = len(stages)
+
+    for i in range(1,N+1) :   
+        stagePeople=0  
+        stageWaiting=0  
+        for stage in stages :
+            if i==stage :
+                stagePeople += 1     
+            if stage >= i :
+                stageWaiting += 1    
+        if stageWaiting == 0 :
+            rate.append([i,0])   
+        else :
+            rate.append([i,stagePeople/stageWaiting])
+
+    rate.sort(key=lambda x:x[1],reverse=True)
     
-    dic = {}
-    for stage in stages:
-        if stage not in dic:
-            dic[stage] = 1
-        elif stage in dic:
-            dic[stage] += 1
-            
-    dic = sorted(dic.items())
-    
-    failRate = {}
-    for key, getsu in dic:
+    for i in rate :
+        answer.append(i[0])
         
-    
     return answer
